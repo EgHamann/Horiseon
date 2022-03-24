@@ -84,13 +84,11 @@ article h2 {
 
 .float-left {
     float: left;
-    clear: both;
     margin-right: 25px;
 }
 
 .float-right {
     float: right;
-    clear: both;
     margin-left: 25px;
 }
 
